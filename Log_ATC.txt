@@ -1,0 +1,142 @@
+Log_ATC.txt for X-Plane 12.06b2 (build 120606 Intel 64-bit, Vulkan 9321d06972cd6a92555f170a809fbbb853b407fc)
+Compiled on Jul 27 2023 10:57:57
+X-Plane Started on Mon Jul 31 22:37:35 2023
+
+This log file is generated automatically by Laminar Research applications and contains diagnostics about your graphics hardware, installation, and any error conditions.
+If you need to contact tech support or file a bug, please send us this file.
+
+Windows 10.0 (build 22000/2)
+This is a 64-bit version of Windows.
+CPU type: 8664
+Physical Memory (total for computer): 17041162240
+Maximum Virtual Memory (for X-Plane only): 140737488224256
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+CPU 0: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz  Speed (mhz): 2496
+
+X-System folder:'C:\X-Plane 12/', case sensitive=0
+
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 175250 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 469390 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 469401 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 481372 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 481383 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 481394 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 481405 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 532500 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 532511 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 536645 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 536656 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 679448 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DAAA' found at position 1196956 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DATG' found at position 1224665 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNBC' found at position 1271469 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNBK' found at position 1273611 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNBY' found at position 1274724 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNDS' found at position 1278341 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNFB' found at position 1280095 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNKT' found at position 1291279 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'DNSU' found at position 1303007 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'EETT' found at position 1553817 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'EPWW' found at position 1815472 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'EVRR' found at position 1874568 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'EYVL' found at position 1882830 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'FBPM' found at position 2058874 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'GAKD' found at position 2327291 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'GUOK' found at position 2412566 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'HCGR' found at position 2466365 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'HECA' found at position 2482648 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'HECP' found at position 2508738 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'HKEM' found at position 2536377 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'HLTQ' found at position 2563381 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'HLUB' found at position 2564495 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'KZBW' found at position 4277566 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LAAA' found at position 4279753 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LBSR' found at position 4296048 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LDZO' found at position 4326783 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LFFF' found at position 4634509 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 4636452 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Duplicate FREQ: 135975 at position 4636463 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LFMM' found at position 4782011 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LHCC' found at position 5060116 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LJLA' found at position 5209763 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LQSB' found at position 5375395 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LRBB' found at position 5381637 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LTFN' found at position 5577319 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LUUU' found at position 5588183 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LWSS' found at position 5594617 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LYBA' found at position 5596006 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'LZBB' found at position 5616743 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'OADY' found at position 6018308 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'OBKH' found at position 6046089 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'OETB' found at position 6079799 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'RJCA' found at position 6390112 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'RJOE' found at position 6532371 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'SUAG' found at position 7583664 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UBBQ' found at position 7714933 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UBBY' found at position 7715359 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UBEE' found at position 7715821 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UHEK' found at position 7772471 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UHKD' found at position 7779111 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UHNB' found at position 7781473 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UKBU' found at position 7809117 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UKKT' found at position 7825561 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UMMV' found at position 7863240 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UNIP' found at position 7874810 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UOTT' found at position 7891848 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'UTSA' found at position 7937913 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VCCH' found at position 8127580 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VCCV' found at position 8132619 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VECX' found at position 8152437 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VEKO' found at position 8159676 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VLXK' found at position 8236306 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VOBM' found at position 8280136 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VOJV' found at position 8292669 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VOND' found at position 8301446 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VOTK' found at position 8305205 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VYFS' found at position 8470477 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VYMW' found at position 8489072 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'VYPP' found at position 8494679 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'WAGI' found at position 8520416 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'WIRR' found at position 8619060 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'ZSYW' found at position 8857145 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Unknown ICAO code 'ZUTF' found at position 8867518 in Resources/default scenery/1200 atc data/Earth nav data/atc.dat
+0:00:50.464 W/ATC: Adjusting EDHI:Tower airspace lower bound from 2500 to 0 because it does not reach the ground
+0:00:50.464 W/ATC: Ignoring controller EDHI:Tower airspace because it does not cover the airport (10.03 NM away).
+0:00:50.464 W/ATC: Adjusting HSPN:Tower airspace lower bound from 2500 to 100 because it does not reach the ground
+0:00:50.464 W/ATC: Adjusting MGMM:Tower airspace lower bound from 3000 to 400 because it does not reach the ground
+0:00:50.464 W/ATC: Ignoring controller SARE:Tower airspace because it does not cover the airport (11.61 NM away).
+0:00:50.464 W/ATC: Adjusting VTPI:Tower airspace lower bound from 2000 to 100 because it does not reach the ground
+0:00:50.464 W/ATC: Ignoring controller VTSY:Tower airspace because it does not cover the airport (45.20 NM away).
+0:00:50.464 W/ATC: Adjusting VVDN:Tower airspace lower bound from 2000 to 0 because it does not reach the ground
+0:00:50.464 W/ATC: Adjusting WICC:Tower airspace lower bound from 4000 to 2400 because it does not reach the ground
+0:00:50.464 W/ATC: Adjusting WIII:Tower airspace lower bound from 3500 to 0 because it does not reach the ground
+0:00:50.464 W/ATC: Adjusting WILL:Tower airspace lower bound from 4000 to 200 because it does not reach the ground
+0:00:50.464 W/ATC: Ignoring controller ZSQD:Tower airspace because it does not cover the airport (15.41 NM away).
+0:00:50.464 I/ATC: Rewrote 350 facilities' frequencies to avoid collisions
+0:00:50.464 D/ATC: Placing static Resources/default scenery/sim objects/apt_aircraft/jet/SF50_blue/SF50_blue_static.obj in Gate 1 at KERI
+0:00:50.464 D/ATC: Placing static Resources/default scenery/sim objects/apt_aircraft/prop/C172_waves/C172_waves_static.obj in North Coast GA2 at KERI
+0:00:50.464 D/ATC: Placing static Resources/default scenery/sim objects/apt_aircraft/turboprop/P180_Ferrari/P180_ferrari_static.obj in North Coast GA5 at KERI
+0:00:50.464 D/ATC: Placing static Resources/default scenery/sim objects/apt_aircraft/prop/C172_waves/C172_waves_static.obj in North Coast GA6 at KERI
+0:00:50.464 D/ATC: (): ClearForReuse
+0:00:50.464 I/ATC: Created aircraft 000002386AB6F9E0 as p=0 ()
+0:00:50.464 D/ATC: p=0 (ZB738): Status Takeoff: 06
+0:00:50.464 I/ATC: Adding p=0 (ZB738) into Active Queue at KERI
+0:00:50.464 W/ATC: Limiting KCLE TRACON/Terminal Control (124.000, 125.350, 125.700, 126.350, 128.250, 135.875) to 5 radio channels, dropping 1
+0:00:50.464 W/ATC: Limiting KZOB Area Control Center (119.325, 119.950, 120.075, 120.450, 120.625, 121.200, 124.325, 124.400, 124.425, 125.200, 126.525, 126.725, 126.950, 127.475, 127.675, 127.900, 128.625, 132.125, 132.250, 132.450, 133.375, 133.875, 134.125, 134.650, 134.775, 135.175, 135.725) to 5 radio channels, dropping 22
+0:00:50.464 W/ATC: Limiting CZYZ Area Control Center (124.025, 124.075, 124.375, 124.675, 124.925, 125.775, 127.000, 127.250, 132.475, 132.575, 132.650, 133.300, 133.725, 134.375, 134.425, 134.575, 134.925, 135.400, 135.825) to 5 radio channels, dropping 14
+0:06:25.171 I/ATC: Removing p=0 (ZB738) from Active Queue at KERI
+0:06:25.171 I/ATC: Deleting aircraft 000002386AB6F9E0 who was p=0 (ZB738)

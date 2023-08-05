@@ -1,3 +1,0 @@
-. ~/.kshrc;
-. ~/.profile >/dev/null 2>&1;
-
